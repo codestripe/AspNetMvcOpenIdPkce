@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenID PKCE Demo</title>
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/Home/Secure">Secure Page</a> |
+        @if (User.Identity.IsAuthenticated)
+        {
+            <form asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignOut" method="post">
+                <button type="submit">Logout</button>
+            </form>
+        }
+        else
+        {
+            <a asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn">Login</a>
+        }
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
