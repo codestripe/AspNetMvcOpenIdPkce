@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xbqjLX1/weDRSe0Be2lBteyG9nfGUThusnUlnskLv1o=",
+  "Source": "AspNetMvcOpenIdPkce",
+  "BasePath": "_content/AspNetMvcOpenIdPkce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Sa7E4m/t2PY=",
+  "dgSpecHash": "1MLF7mhrNks=",
   "success": true,
   "projectFilePath": "C:\\Users\\Vikeer\\Downloads\\AspNetMvcOpenIdPkce (3)\\AspNetMvcOpenIdPkce.csproj",
   "expectedPackageFiles": [
@@ -113,11 +113,7 @@
     "C:\\Users\\Vikeer\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512",
     "C:\\Users\\Vikeer\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Vikeer\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vikeer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Vikeer\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\Vikeer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\Vikeer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\Vikeer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+    "C:\\Users\\Vikeer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": [
     {
@@ -127,7 +123,7 @@
       "message": "AspNetMvcOpenIdPkce depends on Microsoft.Identity.Web (>= 2.18.4) but Microsoft.Identity.Web 2.18.4 was not found. Microsoft.Identity.Web 2.19.0 was resolved instead.",
       "libraryId": "Microsoft.Identity.Web",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     },
     {
@@ -137,7 +133,7 @@
       "message": "AspNetMvcOpenIdPkce depends on Microsoft.Identity.Web.MicrosoftGraph (>= 2.18.4) but Microsoft.Identity.Web.MicrosoftGraph 2.18.4 was not found. Microsoft.Identity.Web.MicrosoftGraph 2.19.0 was resolved instead.",
       "libraryId": "Microsoft.Identity.Web.MicrosoftGraph",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     },
     {
@@ -147,7 +143,7 @@
       "message": "AspNetMvcOpenIdPkce depends on Microsoft.Identity.Web.UI (>= 2.18.4) but Microsoft.Identity.Web.UI 2.18.4 was not found. Microsoft.Identity.Web.UI 2.19.0 was resolved instead.",
       "libraryId": "Microsoft.Identity.Web.UI",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     }
   ]
